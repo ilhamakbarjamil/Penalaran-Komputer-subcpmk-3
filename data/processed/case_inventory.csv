@@ -1,6 +1,6 @@
 case_id,no_perkara,pengadilan,jenis_perkara,tanggal_putusan,sumber_url,raw_file,status_download,jumlah_kata
 case_001,2184/PID.B/2013/PN.TNG,PN Tangerang,Pidana Umum - Pencurian,07-01-2014,https://putusan3.mahkamahagung.go.id/direktori/putusan/920f583c6a4c4c1e857abd142bcaae4c.html,case_001.txt,belum,0
-case_002,,PN Tangerang,Pidana Umum - Pencurian,,,case_002.txt,belum,0
+case_002,1671/Pid.B/2021/PN.Tng,PN Tangerang,Pidana Umum - Pencurian,18-10-2021,https://putusan3.mahkamahagung.go.id/direktori/putusan/zaec79c6b87c3daa8982313435383134.html,case_002.txt,belum,0
 case_003,,PN Tangerang,Pidana Umum - Pencurian,,,case_003.txt,belum,0
 case_004,,PN Tangerang,Pidana Umum - Pencurian,,,case_004.txt,belum,0
 case_005,,PN Tangerang,Pidana Umum - Pencurian,,,case_005.txt,belum,0
