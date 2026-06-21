@@ -1,0 +1,11 @@
+query_id,ground_truth_solution_label,predicted_solution_label,best_case_id
+eval_001,Lain-lain,Lain-lain,case_020
+eval_002,Lain-lain,Lain-lain,case_017
+eval_003,Lain-lain,Lain-lain,case_016
+eval_004,Lain-lain,Lain-lain,case_027
+eval_005,Lain-lain,Lain-lain,case_005
+eval_006,Lain-lain,Lain-lain,case_013
+eval_007,Lain-lain,Lain-lain,case_038
+eval_008,Lain-lain,Lain-lain,case_028
+eval_009,Lain-lain,Lain-lain,case_040
+eval_010,Lain-lain,Lain-lain,case_007

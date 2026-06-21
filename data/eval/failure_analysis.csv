@@ -1,0 +1,1 @@
+query_id,ground_truth_case_id,top1_case_id,top_k_case_ids,top_k_scores,top1_correct,hit_at_k,precision_at_k,recall_at_k,f1_at_k

@@ -1,0 +1,62 @@
+[
+  {
+    "query_id": "eval_001",
+    "query": "Pengadilan PN TANGERANG Pidana Umum Pencurian Putus : 15-05-2013 — Upload : 23-06-2014 Putusan PN TANGERANG Nomor 672 / PID.B / 2013 / PN.TNG Tanggal 15 Mei 2013 — ABDUL KHALIM Als. NARYO Bin JABUN 32 — 3 sejak tanggal 28Januari 2013 sampai dengan sekarang ;PENGADILAN NEGERI TERSEBUT ;Telah membaca berkas perkara atas nama Terdakwa tersebut ;Telah mendengar keterangan saksisaksi, dan keterangan Terdakwa ;Telah memeriksa/memperhatikan barang bukti dalam perkara tersebut ;Telah mendengar uraian tuntutan Penuntut Umum pada Kejaksaan NegeriTangerang atas diri Terdakwa, yang pada pokoknya menuntut sebagai berikut :1 Menyatakan Terdakwa ABDUL KHALIM ALS NARYO BIN JABUN bersalahmelakukan tindak pidana Pencurian Batu Ceper Kota Tangerang, atau setidaktidaknyadisalah satu tempat lain yang termasuk dalam daerah hukum Pengadilan NegeriTangerang, mengambil barang sesuatu, yang seluruhnya atau sebagian kepunyaan oranglain, dengan maksud untuk dimiliki secara melawan hukum, pencurian yang didahului,disertai atau diikuti dengan kekerasan atau ancaman kekerasan, terhadap orang denganmaksud untuk mempersiapkan atau mempermudah pencurian, atau dalam hal tertangkaptangan, untuk memungkinkan melarikan",
+    "ground_truth_case_id": "case_020",
+    "ground_truth_solution_label": "Lain-lain"
+  },
+  {
+    "query_id": "eval_002",
+    "query": "Pengadilan PN TANGERANG Pidana Umum Register : 21-03-2019 — Putus : 16-05-2019 — Upload : 22-05-2019 Putusan PN TANGERANG Nomor 586/Pid.B/2019/PN Tng Tanggal 16 Mei 2019 — Penuntut Umum: ANDRE SAUT SIMBOLON, SH Terdakwa: 1.SANWANI Alisa OLOT Bin JUHANI alm 2.JUMAN Bin ACIM 3.AYON KUNIAWAN Als AYON Bin SARIAN 59 — 53 AYON KURNIAWAN Als AYON Bin SARIAN, telah terbukti secara sah dan meyakinkan bersalah melakukan tindak pidana : \"Pencurian dalam keadaan memberatkan yang dilakukan secara bersama-sama; Menjatuhkan pidana kepada Terdakwa I. SANWANI Als OLOT Bin JUHANI, Terdakwa II. JUMAN Bin ACIN dan Terdakwa III. Saksi: HENRY JAYA KNEE,Bahwa benar Saksi kenal dengan Para Terdakwa karena Para Terdakwakaryawan saksi;;Bahwa Telah terjadi Tindak Pidana Pencurian pada hari Minggu tanggal30 Desember 2018 sekira pukul 02.00 Wib yang dilakukan oleh ParaTerdakwa pada Perternakan CV. Berlian Jaya Farm milik Saksi di Kp.Cirarab Kec. Legok Kab. tidak mengetahui kapan dan bagaimana cara ParaTerdakwa melakukan pencurian tersebut kejadian tersebut tanpasepengetahuan dan seizin dari Saksi;Bahwa akibat dari pencurian yang dilakukan para Terdakwa sehinggaSaksi mengalami kerugian sebesar Rp.7.800.000, (tu",
+    "ground_truth_case_id": "case_017",
+    "ground_truth_solution_label": "Lain-lain"
+  },
+  {
+    "query_id": "eval_003",
+    "query": "Pengadilan PN TANGERANG Pidana Umum Register : 04-06-2018 — Putus : 19-07-2018 — Upload : 28-11-2018 Putusan PN TANGERANG Nomor 1176/Pid.B/2018/PN Tng Tanggal 19 Juli 2018 — Penuntut Umum: HERU APRIANTO, SH Terdakwa: ISEP ISKANDAR Bin ISHAK 39 — 3 M E N G A D I L I : Menyatakan terdakwa ISEP ISKANDAR Bin ISHAK terbukti secara sah dan meyakinkan bersalah melakukan tindak pidana Percobaan Pencurian dalam keadaan memberatkan ; Menjatuhkan pidana terhadap terdakwa dengan pidana penjara selama 10 (sepuluh) bulan; Menetapkan masa penangkapan dan penahanan yang telah dijalani Terdakwa dikurangkan seluruhnya dari pidana yang dijatuhkan; Menetapkan Terdakwa Tangerang.Bahwa yang menjadi pelaku pencurian tersebut adalah ISEP ISKANDAR, danyang menjadi korbannya adalah Saksi sendiri.Bahwa 1 (Satu) Unit Sepeda Motor merk Honda Vario tahun 2013, warnaputih silver, Nopol : B 6586 CWG, Noka : MH1JFB113DK756965, Nosin :JFB1E1714364, an Sdr DONAASMARA.Bahwa terdakwa melakukan Tindak pidana Pencurian tersebut dengan caramengambil motor saksi yang sedang terparkir di depan warung makan yangberalamatkan di Kp. Sumur Bandung Ds.Sumur bandung Kec. Saksi FERDI PANGRINGGO bin SUDARLI. didepan persidangan di",
+    "ground_truth_case_id": "case_016",
+    "ground_truth_solution_label": "Lain-lain"
+  },
+  {
+    "query_id": "eval_004",
+    "query": "Pengadilan PN TANGERANG Pidana Umum Register : 06-10-2022 — Putus : 30-11-2022 — Upload : 30-11-2022 Putusan PN TANGERANG Nomor 1649/Pid.B/2022/PN Tng Tanggal 30 Nopember 2022 — Penuntut Umum: DEDI SEPTIANTO, SH Terdakwa: 1.JANAAN Bin JAMAIN Alm 2.TEJA FEBRIYANTO Bin DULHADI Alm 56 — 8 MENGADILI: Menyatakan Terdakwa JANAAN Bin JAMAIN (Alm) dan terdakwa TEJA FEBRIYANTO Bin DULHADI (Alm) tersebut telah terbukti secara sah dan meyakinkan bersalah melakukan tindak pidana Pencurian dalam keadaan memberatkan ; Menjatuhkan pidana terhadap Para Terdakwa tersebut oleh karena itu dengan pidana penjara masing-masing selama 1 (satu) tahun dan 6 (enam) bulan; Menetapkan masa penangkapan dan penahanan yang telah dijalani",
+    "ground_truth_case_id": "case_027",
+    "ground_truth_solution_label": "Lain-lain"
+  },
+  {
+    "query_id": "eval_005",
+    "query": "Pengadilan PN TANGERANG Pidana Umum Pencurian Putus : 08-05-2012 — Upload : 22-02-2015 Putusan PN TANGERANG Nomor 678/ PID.B/ 2011/ PN TNG Tanggal 8 Mei 2012 — MOHAMAD HERI Als HERI Bin SAMIR 35 — 10 /2011/PN.TNG. tentang penetapan hari sidang perkara ini ;Telah membaca semua suratsurat dalam perkara yang bersangkutan ;Telah mendengar pembacaan Surat Dakwaan Penuntut Umum di mukapersidangan ;Telah mendengar keterangan saksisaksi dan Terdakwa di persidangan ;Telah mendengar pembacaan tuntutan pidana Penuntut Umum pada KejaksaanNegeri Tigaraksa, yang disampaikan di persidangan pada hari Kamis tanggal 16 Juni2011, yang berkesimpulan bahwa Terdakwa telah terbukti bersalah melakukan tindakpidana pencurian Menyatakan terdakwa MOHAMAD HERI Als HERI Bin SAMIR telah terbukti secarasah dan meyakinkan melakukan Tindal< Pidana \"Pencurian\" sebagaimana diatur clandiancam Pidana dalam Pasal 362 KUHP dalam dakwaan kami ;1 Menjatuhkan pidana terhadap terdakwa MOHAMAD HERI Als HERI Bin SAMIRdengan pidana penjara selama 8 (delapan) bulan Penjara dikurangi selama terdakwaberada dalam tahanan sementara dengan perintah agar terdakwa tetap ditahan ;2 Menyatakan Barang bukti berupa:e 1 (satu) potong celan",
+    "ground_truth_case_id": "case_005",
+    "ground_truth_solution_label": "Lain-lain"
+  },
+  {
+    "query_id": "eval_006",
+    "query": "Pengadilan PN TANGERANG Pidana Umum Register : 16-12-2021 — Putus : 09-02-2022 — Upload : 10-02-2022 Putusan PN TANGERANG Nomor 2013/Pid.B/2021/PN Tng Tanggal 9 Februari 2022 — Penuntut Umum: DINA NATALIA, SH Terdakwa: NICKY KRISTIAWAN ALS SENGSENG AD. PING CUAN 63 — 12 MENGADILI: Menyatakan Terdakwa NICKY KRISTIAWAN Als SENGSENG A.d PING CUAN bersalah melakukan tindak pidana Pencurian Dalam keadaan memberatkan.",
+    "ground_truth_case_id": "case_013",
+    "ground_truth_solution_label": "Lain-lain"
+  },
+  {
+    "query_id": "eval_007",
+    "query": "Pengadilan PN TANGERANG Pidana Umum Pencurian Putus : 22-08-2011 — Upload : 14-11-2016 Putusan PN TANGERANG Nomor 1339/ PID.B/ 2011/ PN.TNG. Tanggal 22 Agustus 2011 — JUNEDI Als ICON Bin ASIP 75 — 3 berikut ;PRIMAIRBahwa terdakwa JONEDI Als ION Bin ASIP bersamasama dengan sdr.IPAN Als ENDI (DPO) pada hari Jumat Tanggal 03 Juni 2011 sekiraPukul 11:30 Wib atau setidaktidaknya pada waktu lain pada BulanJunii 2011 atau setidaktidaknya pada waktu lain pada Tahun 2011,bertempat di jalan Siswa Keluarahan Sukaasih Kecamatan TangerangKota Tangerang atau setidak tidaknya disuatu tempat lain yang masihtermasuk dalam daerah hukum Pengadilan Negeri Tangerang yangberwenang memeriksa dan mengadili perkaranya, pencurian (barangsiapa mengambil barang sesuatu, yang seluruhnya atau sebagian milikorang lain, dengan maksud untuk dimiliki secara melawan hukum) yangdidahului, disertai atau diikuti dengan kekerasan atau ancamankekerasan, terhadap orang dengan maksud untuk mempersiapkan ataumempermudah pencurian, atau dalam hal tertangkap tangan, untukmemungkinkan melarikan diri sendiri atau peserta lainnya, atau untuktetap menguasai barang yang dicuri, dilakukan oleh dua orang ataulebih dengan bersekutu, ",
+    "ground_truth_case_id": "case_038",
+    "ground_truth_solution_label": "Lain-lain"
+  },
+  {
+    "query_id": "eval_008",
+    "query": "Pengadilan PN TANGERANG Pidana Umum Pencurian Register : 30-11-2021 — Putus : 19-01-2022 — Upload : 24-01-2022 Putusan PN TANGERANG Nomor 1905/Pid.B/2021/PN Tng Tanggal 19 Januari 2022 — Penuntut Umum: AYOE NOERHAYATI Terdakwa: AHMAD RAMADAN alias PENDEK bin ROSIDI 43 — 14 Menyatakan terdakwa AHMAD RAMADAN alias PENDEK bin ROSIDI, tersebut diatas, terbukti secara sah dan meyakinkan bersalah melakukan tindak pidana Pencurian dengan pemberatan Menjatuhkan pidana kepada Terdakwa oleh karena itu dengan pidana penjara selama 2 (dua) tahun dan 6 (enam) bulan; Menetapkan masa penangkapan dan penahanan yang telah dijalani Terdakwa dikurangkan seluruhnya dari pidana yang dijatuhkan; Menetapkan Terdakwa tetap ditahan;",
+    "ground_truth_case_id": "case_028",
+    "ground_truth_solution_label": "Lain-lain"
+  },
+  {
+    "query_id": "eval_009",
+    "query": "Pengadilan PN TANGERANG Pidana Umum Kejahatan terhadap keamanan negara Putus : 21-04-2010 — Upload : 16-07-2012 Putusan PN TANGERANG Nomor 441/Pid.B/2010/PN.TNG Tanggal 21 April 2010 — 1.ISMIT ABDULLAH Bin BUYUNG 2.RAHMAT SYARIF Bin AMIR 42 — 1 Menyatakan Terdakwa I ISMIT ABDULLAH Bin BUYUNG dan Terdakwa IIRAHMAT SYARIF Bin AMIR Telah terbukti secara sah dan meyakinkanbersalah melakukan tindak pidana Pencurian Dalam KeadaanMemberatkan ; 2. Menjatuhkan pidana terhadap terdakwa I ISMIT ABDULLAH Bin BUYUNGdan Terdakwa II RAHMAT SYARIF Bin AMIR tersebut, dengan pidanapenjara selama 7 (tujuh) bulan; 3. Menetapkan masa penahanan yang telah dijalani dikurangkan seluruhnyadari Pidana yang di jatuhkan ; 4.",
+    "ground_truth_case_id": "case_040",
+    "ground_truth_solution_label": "Lain-lain"
+  },
+  {
+    "query_id": "eval_010",
+    "query": "Pengadilan PN TANGERANG Pidana Umum Pencurian Putus : 15-06-2017 — Upload : 27-12-2017 Putusan PN TANGERANG Nomor 834 / Pid.B / 2017 / PN.TNG. Tanggal 15 Juni 2017 — DEDY KUMALA BIN SAHLAN 60 — 4 Menyatakan Terdakwa DEDY KUMALA BIN SAHLAN bersalah secara syahdan meyakinkan melakukan tindak pidana Pencurian sebagaimana dalamdakwaan Pasal 362 KUHP ;2. Menjatuhkan pidana penjara kepada Terdakwa DEDY KUMALA BINSAHLAN selama 1 (satu) tahun dan 6 (enam) bulan dikurangi masapenahanan yang telah dijalankan Terdakwa dengan perintah agar terdakwatetap ditahan ;.3. Menyatakan barang bukti berupa : 1 (satu) lembar STNK sepeda motor merk Yamaha Jupiter MX No. Pol B6427NWP ; Bahwa benar yang mengambil sepeda motor saksi adalah Terdakwa ; Bahwa sebelum kejadian pencurian, sepeda motor milik saksi diparkir didepan rumah ; Bahwa saksi tahu, ada pencurian setelah sepeda motor saksi jatuh danterdakwa kabur dan akhirnya tertangkap ;2. SALIMparkir sepeda motor dipinggir jalan depan rumahnya dalam keadaan terkuncisetang serta menggunakan kunci pengaman tambahan lain berupa gembokyang dipasang apa piringan cakram depan, tetapi untuk kunci kontak sepedamotor tersebut masih tergantung tertinggal di lubang ",
+    "ground_truth_case_id": "case_007",
+    "ground_truth_solution_label": "Lain-lain"
+  }
+]
