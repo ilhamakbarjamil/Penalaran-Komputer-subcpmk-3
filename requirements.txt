@@ -6,7 +6,10 @@ requests
 pdfminer.six
 tqdm
 jupyter
+notebook
 ipykernel
 matplotlib
 openpyxl
 Sastrawi
+joblib
+selenium
