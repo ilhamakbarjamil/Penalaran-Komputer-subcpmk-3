@@ -206,3 +206,53 @@ Project ini sudah menggunakan data putusan dalam bentuk PDF, sehingga lebih kuat
 ## Kesimpulan
 
 Sistem CBR ini mampu membangun case base dari putusan PDF, merepresentasikan kasus ke dalam struktur data, melakukan retrieval kasus menggunakan cosine similarity, menggunakan kembali solusi dari kasus lama, dan mengevaluasi hasil retrieval serta prediksi solusi secara terpisah.
+
+
+## Visualisasi Tambahan
+
+Agar hasil analisis lebih mudah dipahami, project ini juga menambahkan beberapa grafik pada folder `data/results/`:
+
+| File Grafik | Fungsi |
+|---|---|
+| `label_distribution_bar.png` | Menunjukkan sebaran label solusi putusan. |
+| `train_test_split_bar.png` | Menunjukkan pembagian data train/case base dan test/query evaluasi. |
+| `word_count_distribution.png` | Menunjukkan sebaran jumlah kata hasil ekstraksi PDF. |
+| `missing_fields_bar.png` | Menunjukkan kolom penting yang masih memiliki nilai kosong. |
+| `combined_metrics_bar.png` | Membandingkan metrik retrieval dan prediksi solusi. |
+| `confusion_matrix_heatmap.png` | Menunjukkan kesalahan dan kebenaran prediksi solusi. |
+| `relevant_retrieved_per_query.png` | Menunjukkan jumlah kasus relevan pada top-5 retrieval untuk setiap query. |
+
+## Penjelasan Lebih Detail Per Tahap
+
+### Case Base
+
+Case base dibangun dari 40 file PDF putusan. Setiap PDF disimpan di `data/raw/pdf/`, lalu diekstrak menjadi file teks di `data/raw/text/`. Hasil inventarisasi disimpan dalam `case_inventory.csv`.
+
+### Case Representation
+
+Pada tahap representasi, setiap putusan diubah dari teks panjang menjadi struktur data. Kolom yang paling penting adalah `problem_text` dan `solution_text`. `problem_text` digunakan untuk pencarian kasus, sedangkan `solution_text` digunakan sebagai dasar label solusi.
+
+### Case Retrieval
+
+Retrieval memakai TF-IDF dan cosine similarity. TF-IDF dipilih karena sederhana, mudah dijelaskan, dan sesuai untuk pencarian kemiripan dokumen berbasis teks. Sistem mengambil top-5 kasus paling mirip untuk setiap query.
+
+### Solution Reuse
+
+Solution reuse dilakukan dengan weighted voting. Artinya, label solusi dari kasus yang lebih mirip memiliki bobot lebih besar. Label dengan total similarity score tertinggi dipilih sebagai prediksi solusi untuk query baru.
+
+### Evaluation
+
+Evaluasi memakai data test yang tidak dimasukkan ke case base. Hal ini penting supaya hasil tidak mengalami data leakage. Metrik retrieval dan prediksi solusi disimpan dalam folder `data/eval/`.
+
+## Catatan Kualitas Data
+
+Dari hasil pengecekan, terdapat 2 kasus dengan kolom `pasal` kosong dan 1 kasus dengan kolom `lama_pidana` kosong. Hal ini terjadi karena format PDF putusan tidak selalu sama. Project tetap layak karena kolom utama seperti `case_id`, `no_perkara`, `terdakwa`, `problem_text`, `solution_text`, dan `solution_label` sudah tersedia.
+
+## Laporan Tambahan
+
+Penjelasan detail dan checklist kelayakan tersedia di:
+
+```text
+reports/ANALISIS_DETAIL_CBR.md
+reports/CHECKLIST_SUBCPMK3.md
+```
