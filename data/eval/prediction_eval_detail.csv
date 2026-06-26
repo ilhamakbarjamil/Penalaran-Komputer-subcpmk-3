@@ -1,11 +1,9 @@
-query_id,ground_truth_solution_label,predicted_solution_label,best_case_id
-eval_001,Pidana Penjara Tidak Teridentifikasi,Pidana Penjara Tidak Teridentifikasi,case_020
-eval_002,Pidana Penjara Tidak Teridentifikasi,Pidana Penjara Tidak Teridentifikasi,case_017
-eval_003,Pidana Penjara 7-12 Bulan,Pidana Penjara 7-12 Bulan,case_016
-eval_004,Pidana Penjara 7-12 Bulan,Pidana Penjara 7-12 Bulan,case_027
-eval_005,Pidana Penjara > 12 Bulan,Pidana Penjara > 12 Bulan,case_005
-eval_006,Pidana Penjara Tidak Teridentifikasi,Pidana Penjara Tidak Teridentifikasi,case_013
-eval_007,Pidana Penjara <= 6 Bulan,Pidana Penjara <= 6 Bulan,case_038
-eval_008,Pidana Penjara > 12 Bulan,Pidana Penjara > 12 Bulan,case_028
-eval_009,Pidana Penjara 7-12 Bulan,Pidana Penjara 7-12 Bulan,case_040
-eval_010,Pidana Penjara 7-12 Bulan,Pidana Penjara 7-12 Bulan,case_007
+query_id,ground_truth_case_id,ground_truth_solution_label,predicted_solution_label,best_case_id,best_case_label,best_similarity_score,top_k_case_ids,top_k_labels,top_k_scores
+eval_001,case_006,Pidana Penjara > 12 Bulan,Pidana Penjara > 12 Bulan,case_039,Pidana Penjara > 12 Bulan,0.350835,"case_039, case_003, case_027, case_002, case_001","Pidana Penjara > 12 Bulan, Pidana Penjara > 12 Bulan, Pidana Tidak Teridentifikasi, Pidana Penjara > 12 Bulan, Pidana Penjara > 12 Bulan","0.350835, 0.338076, 0.300253, 0.29536, 0.278884"
+eval_002,case_007,Pidana Penjara > 12 Bulan,Pidana Penjara > 12 Bulan,case_004,Pidana Penjara > 12 Bulan,0.357204,"case_004, case_003, case_025, case_014, case_027","Pidana Penjara > 12 Bulan, Pidana Penjara > 12 Bulan, Pidana Penjara > 12 Bulan, Pidana Penjara > 12 Bulan, Pidana Tidak Teridentifikasi","0.357204, 0.286163, 0.277142, 0.275377, 0.270513"
+eval_003,case_011,Pidana Penjara > 12 Bulan,Pidana Penjara > 12 Bulan,case_003,Pidana Penjara > 12 Bulan,0.293114,"case_003, case_004, case_027, case_008, case_025","Pidana Penjara > 12 Bulan, Pidana Penjara > 12 Bulan, Pidana Tidak Teridentifikasi, Pidana Penjara > 12 Bulan, Pidana Penjara > 12 Bulan","0.293114, 0.288225, 0.262223, 0.251128, 0.242878"
+eval_004,case_023,Pidana Penjara > 12 Bulan,Pidana Penjara > 12 Bulan,case_027,Pidana Tidak Teridentifikasi,0.340599,"case_027, case_025, case_004, case_021, case_024","Pidana Tidak Teridentifikasi, Pidana Penjara > 12 Bulan, Pidana Penjara > 12 Bulan, Pidana Penjara > 12 Bulan, Pidana Penjara > 12 Bulan","0.340599, 0.313429, 0.261923, 0.250165, 0.236044"
+eval_005,case_030,Pidana Penjara > 12 Bulan,Pidana Penjara > 12 Bulan,case_027,Pidana Tidak Teridentifikasi,0.429751,"case_027, case_025, case_021, case_003, case_002","Pidana Tidak Teridentifikasi, Pidana Penjara > 12 Bulan, Pidana Penjara > 12 Bulan, Pidana Penjara > 12 Bulan, Pidana Penjara > 12 Bulan","0.429751, 0.337368, 0.335223, 0.330282, 0.297031"
+eval_006,case_033,Pidana Penjara > 12 Bulan,Pidana Penjara > 12 Bulan,case_027,Pidana Tidak Teridentifikasi,0.342169,"case_027, case_032, case_025, case_003, case_021","Pidana Tidak Teridentifikasi, Pidana Penjara > 12 Bulan, Pidana Penjara > 12 Bulan, Pidana Penjara > 12 Bulan, Pidana Penjara > 12 Bulan","0.342169, 0.263045, 0.246708, 0.243897, 0.226698"
+eval_007,case_034,Pidana Penjara > 12 Bulan,Pidana Penjara > 12 Bulan,case_017,Pidana Penjara 7-12 Bulan,0.363536,"case_017, case_027, case_003, case_002, case_004","Pidana Penjara 7-12 Bulan, Pidana Tidak Teridentifikasi, Pidana Penjara > 12 Bulan, Pidana Penjara > 12 Bulan, Pidana Penjara > 12 Bulan","0.363536, 0.312518, 0.255196, 0.230044, 0.22939"
+eval_008,case_037,Pidana Penjara 7-12 Bulan,Pidana Penjara > 12 Bulan,case_027,Pidana Tidak Teridentifikasi,0.267593,"case_027, case_025, case_032, case_003, case_026","Pidana Tidak Teridentifikasi, Pidana Penjara > 12 Bulan, Pidana Penjara > 12 Bulan, Pidana Penjara > 12 Bulan, Pidana Penjara > 12 Bulan","0.267593, 0.212231, 0.175931, 0.166786, 0.166069"

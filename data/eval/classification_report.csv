@@ -1,0 +1,8 @@
+,precision,recall,f1-score,support
+Pidana Penjara 7-12 Bulan,0.0,0.0,0.0,1.0
+Pidana Penjara <= 6 Bulan,0.0,0.0,0.0,0.0
+Pidana Penjara > 12 Bulan,0.875,1.0,0.9333333333333333,7.0
+Pidana Tidak Teridentifikasi,0.0,0.0,0.0,0.0
+accuracy,0.875,0.875,0.875,0.875
+macro avg,0.21875,0.25,0.23333333333333334,8.0
+weighted avg,0.765625,0.875,0.8166666666666667,8.0

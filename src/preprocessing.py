@@ -1,25 +1,26 @@
+from __future__ import annotations
 import re
-from pathlib import Path
 
+def normalize_space(text: str) -> str:
+    text = str(text).replace("\x0c", "\n")
+    text = re.sub(r"[ \t\r\f\v]+", " ", text)
+    text = re.sub(r"\n+", "\n", text)
+    return text.strip()
 
-def clean_text(text: str) -> str:
-    """
-    Clean Indonesian court decision text.
-    """
-    text = text.lower()
-    text = re.sub(r"\s+", " ", text)
-    text = re.sub(r"halaman\s+\d+", " ", text)
-    text = re.sub(r"putusan\s+mahkamah\s+agung", " ", text)
-    text = re.sub(r"[^a-zA-Z0-9\s./-]", " ", text)
+def clean_for_model(text: str) -> str:
+    text = str(text).lower()
+    text = re.sub(r"[^a-zA-Z0-9\s./,-]", " ", text)
     text = re.sub(r"\s+", " ", text).strip()
     return text
 
-
-def save_text(text: str, output_path: str):
-    output_path = Path(output_path)
-    output_path.parent.mkdir(parents=True, exist_ok=True)
-    output_path.write_text(text, encoding="utf-8")
-
-
-def read_text(file_path: str) -> str:
-    return Path(file_path).read_text(encoding="utf-8", errors="ignore")
+def remove_boilerplate(text: str) -> str:
+    text = text.replace("Direktori Putusan Mahkamah Agung Republik Indonesia", " ")
+    text = text.replace("putusan.mahkamahagung.go.id", " ")
+    text = re.sub(r"Mahkamah Agung Republik Indonesia", " ", text, flags=re.I)
+    text = re.sub(
+        r"Disclaimer\s*Kepaniteraan.*?Email\s*:\s*kepaniteraan@mahkamahagung\.go\.id\s*Telp\s*:\s*021-384\s*3348\s*\(ext\.318\)",
+        " ", text, flags=re.I | re.S
+    )
+    text = re.sub(r"Halaman\s+\d+\s+dari\s+\d+\s+Putusan\s+Nomor\s+[^\n]+", " ", text, flags=re.I)
+    text = re.sub(r"Halaman\s+\d+", " ", text, flags=re.I)
+    return normalize_space(text)

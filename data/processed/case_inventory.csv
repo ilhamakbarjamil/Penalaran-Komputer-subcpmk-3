@@ -1,41 +1,46 @@
-case_id,no_perkara,tanggal_putusan,pengadilan,jenis_perkara,sumber_url,raw_file,status_download,jumlah_kata
-case_001,1022/Pid.B/2010/PN.TNG,14 Juli 2010,PN Tangerang,Pidana Umum - Pencurian,https://putusan3.mahkamahagung.go.id/direktori/putusan/02d8373b52a74b64cb2b509e597ab22e.html,case_001.txt,berhasil_list_html,80
-case_002,497 / PID.B / 2014 / PN.TNG.,19 Mei 2014,PN Tangerang,Pidana Umum - Pencurian,https://putusan3.mahkamahagung.go.id/direktori/putusan/8759143bae7fc4503fe79b069b2b8b1b.html,case_002.txt,berhasil_list_html,322
-case_003,1885 /Pid.B/2011/PN.TNG,15 Desember 2011,PN Tangerang,Pidana Umum - Pencurian,https://putusan3.mahkamahagung.go.id/direktori/putusan/6c202caab5f21bbfbb02c645b1e120b1.html,case_003.txt,berhasil_list_html,123
-case_004,1073/Pid.B/2019/PN Tng,10 Juli 2019,PN Tangerang,Pidana Umum - Pencurian,https://putusan3.mahkamahagung.go.id/direktori/putusan/3ef0dd933715a8193d2f3eb06a2f5cf1.html,case_004.txt,berhasil_list_html,213
-case_005,678/ PID.B/ 2011/ PN TNG,8 Mei 2012,PN Tangerang,Pidana Umum - Pencurian,https://putusan3.mahkamahagung.go.id/direktori/putusan/18665f313e4f85241b5592b8d5212fa2.html,case_005.txt,berhasil_list_html,342
-case_006,1527/Pid.B/2014/PN.TNG,16 September 2014,PN Tangerang,Pidana Umum - Pencurian,https://putusan3.mahkamahagung.go.id/direktori/putusan/a1494e35aeb849e79506ae4ca8c28be2.html,case_006.txt,berhasil_list_html,276
-case_007,834 / Pid.B / 2017 / PN.TNG.,15 Juni 2017,PN Tangerang,Pidana Umum - Pencurian,https://putusan3.mahkamahagung.go.id/direktori/putusan/f00d054e938e4c0c46bc04ca0cdc973d.html,case_007.txt,berhasil_list_html,263
-case_008,2000/Pid.B/2017/PN.Tng,16 Nopember 2017,PN Tangerang,Pidana Umum - Pencurian,https://putusan3.mahkamahagung.go.id/direktori/putusan/04ad52268ca0dad8d4bb28edf1b88c52.html,case_008.txt,berhasil_list_html,349
-case_009,2497/Pid.B/2018/PN Tng,10 Januari 2019,PN Tangerang,Pidana Umum - Pencurian,https://putusan3.mahkamahagung.go.id/direktori/putusan/2ec4a38929c18f44ab0e3893ecdd3020.html,case_009.txt,berhasil_list_html,73
-case_010,329/Pid.B/2019/PN Tng,1 April 2019,PN Tangerang,Pidana Umum - Pencurian,https://putusan3.mahkamahagung.go.id/direktori/putusan/1927e380e77376c28fcc56bec49431a4.html,case_010.txt,berhasil_list_html,335
-case_011,976/Pid.B/2022/PN Tng,10 Agustus 2022,PN Tangerang,Pidana Umum - Pencurian,https://putusan3.mahkamahagung.go.id/direktori/putusan/zaed1ecc94bf613ebb5c313530353533.html,case_011.txt,berhasil_list_html,64
-case_012,159/Pid.B/2022/PN Tng,15 Maret 2022,PN Tangerang,Pidana Umum - Pencurian,https://putusan3.mahkamahagung.go.id/direktori/putusan/zaeca5d173b3ce2282ba313630353534.html,case_012.txt,berhasil_list_html,97
-case_013,2013/Pid.B/2021/PN Tng,9 Februari 2022,PN Tangerang,Pidana Umum - Pencurian,https://putusan3.mahkamahagung.go.id/direktori/putusan/zaec8a47bfe91932a8d3313530323130.html,case_013.txt,berhasil_list_html,61
-case_014,960/Pid.B/2022/PN Tng,2 Agustus 2022,PN Tangerang,Pidana Umum - Pencurian,https://putusan3.mahkamahagung.go.id/direktori/putusan/zaed1240ef069f92a5a6313535363031.html,case_014.txt,berhasil_list_html,117
-case_015,1427/Pid.B/2022/PN Tng,16 Nopember 2022,PN Tangerang,Pidana Umum - Pencurian,https://putusan3.mahkamahagung.go.id/direktori/putusan/zaed748157d4a90492eb313634333539.html,case_015.txt,berhasil_list_html,92
-case_016,1176/Pid.B/2018/PN Tng,19 Juli 2018,PN Tangerang,Pidana Umum - Pencurian,https://putusan3.mahkamahagung.go.id/direktori/putusan/0da4d46117db2e9b1568b5dfe9f38697.html,case_016.txt,berhasil_list_html,373
-case_017,586/Pid.B/2019/PN Tng,16 Mei 2019,PN Tangerang,Pidana Umum - Pencurian,https://putusan3.mahkamahagung.go.id/direktori/putusan/08310eb6ee84116780cee64575f7054e.html,case_017.txt,berhasil_list_html,307
-case_018,2203/PID.B/2014/PN. TNG,6 Januari 2015,PN Tangerang,Pidana Umum - Pencurian,https://putusan3.mahkamahagung.go.id/direktori/putusan/84cb49872067c701cfdf1ec9ba18e2d7.html,case_018.txt,berhasil_list_html,306
-case_019,1347 / PID.B / 2014 / PN.TNG.,20 Agustus 2014,PN Tangerang,Pidana Umum - Pencurian,https://putusan3.mahkamahagung.go.id/direktori/putusan/a3aedfdaa5c381abd8efe3088559cfb4.html,case_019.txt,berhasil_list_html,372
-case_020,672 / PID.B / 2013 / PN.TNG,15 Mei 2013,PN Tangerang,Pidana Umum - Pencurian,https://putusan3.mahkamahagung.go.id/direktori/putusan/af8fac0ea6bf31bb3475f4a607d8f0b7.html,case_020.txt,berhasil_list_html,329
-case_021,395/Pid.B/2023/PN Tng,9 Mei 2023,PN Tangerang,Pidana Umum - Pencurian,https://putusan3.mahkamahagung.go.id/direktori/putusan/zaedfadf877aa55c8478313633353437.html,case_021.txt,berhasil_list_html,58
-case_022,46/Pid.B/2024/PN Tng,5 Maret 2024,PN Tangerang,Pidana Umum - Pencurian,https://putusan3.mahkamahagung.go.id/direktori/putusan/zaef3327a10bcfc4a212303231373537.html,case_022.txt,berhasil_list_html,82
-case_023,1431/Pid.B/2021/PN Tng,30 Nopember 2021,PN Tangerang,Pidana Umum - Pencurian,https://putusan3.mahkamahagung.go.id/direktori/putusan/zaec527fe57c45ac863c313532333030.html,case_023.txt,berhasil_list_html,95
-case_024,1544/Pid.B/2021/PN Tng,17 Nopember 2021,PN Tangerang,Pidana Umum - Pencurian,https://putusan3.mahkamahagung.go.id/direktori/putusan/zaec47891274e3d6889b313633303538.html,case_024.txt,berhasil_list_html,89
-case_025,1048/Pid.B/2022/PN Tng,19 September 2022,PN Tangerang,Pidana Umum - Pencurian,https://putusan3.mahkamahagung.go.id/direktori/putusan/zaed38c2290e398c9854313535363438.html,case_025.txt,berhasil_list_html,110
-case_026,1952/Pid.B/2022/PN Tng,20 Desember 2022,PN Tangerang,Pidana Umum - Pencurian,https://putusan3.mahkamahagung.go.id/direktori/putusan/zaed803e5dbc637a802e313531343436.html,case_026.txt,berhasil_list_html,97
-case_027,1649/Pid.B/2022/PN Tng,30 Nopember 2022,PN Tangerang,Pidana Umum - Pencurian,https://putusan3.mahkamahagung.go.id/direktori/putusan/zaed708d0c8782529978313535373432.html,case_027.txt,berhasil_list_html,104
-case_028,1905/Pid.B/2021/PN Tng,19 Januari 2022,PN Tangerang,Pidana Umum - Pencurian,https://putusan3.mahkamahagung.go.id/direktori/putusan/zaec7cbf4158b9c8bc31303934323231.html,case_028.txt,berhasil_list_html,101
-case_029,1871/Pid.B/2021/PN Tng,5 Januari 2022,PN Tangerang,Pidana Umum - Pencurian,https://putusan3.mahkamahagung.go.id/direktori/putusan/zaec6ed1abbff3e08ad8313631383535.html,case_029.txt,berhasil_list_html,108
-case_030,235/Pid.B/2017/PN.TNG.,12 April 2017,PN Tangerang,Pidana Umum - Pencurian,https://putusan3.mahkamahagung.go.id/direktori/putusan/31651f98aaf5fb0c522ce3ca89d60b7f.html,case_030.txt,berhasil_list_html,271
-case_031,1686/Pid.B/2022/PN Tng,30 Nopember 2022,PN Tangerang,Pidana Umum - Pencurian,https://putusan3.mahkamahagung.go.id/direktori/putusan/zaed7b9067f76cd497b3313631393236.html,case_031.txt,berhasil_list_html,114
-case_032,168/Pid.B/2023/PN Tng,8 Maret 2023,PN Tangerang,Pidana Umum - Pencurian,https://putusan3.mahkamahagung.go.id/direktori/putusan/zaedbe34bbc79b18b4cf313134323031.html,case_032.txt,berhasil_list_html,99
-case_033,1790 / PID.B / 2014 / PN.TNG.,14 Oktober 2014,PN Tangerang,Pidana Umum - Pencurian,https://putusan3.mahkamahagung.go.id/direktori/putusan/7162a09b85f69cff1006bbeb65358019.html,case_033.txt,berhasil_list_html,368
-case_034,2118/Pid.B/2014/PN.TNG,18 Desember 2014,PN Tangerang,Pidana Umum - Pencurian,https://putusan3.mahkamahagung.go.id/direktori/putusan/a90dfad5ed395a96e45243719e858539.html,case_034.txt,berhasil_list_html,357
-case_035,1996/Pid.B/2011/PN.TNG,22 Desember 2011,PN Tangerang,Pidana Umum - Pencurian,https://putusan3.mahkamahagung.go.id/direktori/putusan/7b8578278a899a37e5346fefeec61638.html,case_035.txt,berhasil_list_html,100
-case_036,265/PID.B/2013/PN.TNG,21 Maret 2013,PN Tangerang,Pidana Umum - Pencurian,https://putusan3.mahkamahagung.go.id/direktori/putusan/1952227d2d0bfff610adcb359e6fe52c.html,case_036.txt,berhasil_list_html,230
-case_037,1380 / PID.B / 2014 / PN.TNG.,28 Agustus 2014,PN Tangerang,Pidana Umum - Pencurian,https://putusan3.mahkamahagung.go.id/direktori/putusan/0af7886969da9821c6e5d1c20163fa05.html,case_037.txt,berhasil_list_html,330
-case_038,1339/ PID.B/ 2011/ PN.TNG.,22 Agustus 2011,PN Tangerang,Pidana Umum - Pencurian,https://putusan3.mahkamahagung.go.id/direktori/putusan/33d09168e3bd3a126ab61880e5aa454a.html,case_038.txt,berhasil_list_html,343
-case_039,1279/Pid.B/2022/PN Tng,25 Oktober 2022,PN Tangerang,Pidana Umum - Pencurian,https://putusan3.mahkamahagung.go.id/direktori/putusan/zaed56a5e9aa15deadaa313635303130.html,case_039.txt,berhasil_list_html,104
-case_040,441/Pid.B/2010/PN.TNG,21 April 2010,PN Tangerang,Pidana Umum - Pencurian,https://putusan3.mahkamahagung.go.id/direktori/putusan/1b53a6e54f1d8d2f75b193e9dedcd156.html,case_040.txt,berhasil_list_html,101
+case_id,nama_file_asli,no_perkara,pengadilan,jenis_perkara,tanggal_putusan,file_pdf,file_txt,status_ekstraksi,jumlah_halaman,jumlah_kata
+case_001,putusan_1104_pid.b_2025_pn_tng_20260626204755.pdf,1104/Pid.B/2025/PN.Tng,Pengadilan Negeri Tangerang,Pidana Umum - Pencurian,,data/raw/pdf/case_001.pdf,data/raw/text/case_001.txt,berhasil,25,7748
+case_002,putusan_1134_pid.b_2025_pn_tng_20260626210203.pdf,1134/Pid.B/2025/PN.Tng,Pengadilan Negeri Tangerang,Pidana Umum - Pencurian,,data/raw/pdf/case_002.pdf,data/raw/text/case_002.txt,berhasil,43,14182
+case_003,putusan_1184_pid.b_2025_pn_tng_20260626205721.pdf,1184/Pid.B/2025/PN.Tng,Pengadilan Negeri Tangerang,Pidana Umum - Pencurian,,data/raw/pdf/case_003.pdf,data/raw/text/case_003.txt,berhasil,13,4072
+case_004,putusan_1185_pid.b_2025_pn_tng_20260626204526.pdf,1185/Pid.B/2025/PN.Tng,Pengadilan Negeri Tangerang,Pidana Umum - Pencurian,,data/raw/pdf/case_004.pdf,data/raw/text/case_004.txt,berhasil,15,4428
+case_005,putusan_118_pid.b_2026_pn_tng_20260626210553.pdf,118/Pid.B/2026/PN.Tng,Pengadilan Negeri Tangerang,Pidana Umum - Pencurian,,data/raw/pdf/case_005.pdf,data/raw/text/case_005.txt,berhasil,17,5295
+case_006,putusan_1194_pid.b_2025_pn_tng_20260626205917.pdf,1194/Pid.B/2025/PN.Tng,Pengadilan Negeri Tangerang,Pidana Umum - Pencurian,,data/raw/pdf/case_006.pdf,data/raw/text/case_006.txt,berhasil,23,7315
+case_007,putusan_1198_pid.b_2025_pn_tng_20260626211138.pdf,1198/Pid.B/2025/PN.Tng,Pengadilan Negeri Tangerang,Pidana Umum - Pencurian,,data/raw/pdf/case_007.pdf,data/raw/text/case_007.txt,berhasil,25,7847
+case_008,putusan_1255_pid.b_2025_pn_tng_20260626210144.pdf,1255/Pid.B/2025/PN.Tng,Pengadilan Negeri Tangerang,Pidana Umum - Pencurian,,data/raw/pdf/case_008.pdf,data/raw/text/case_008.txt,berhasil,16,4871
+case_009,putusan_1260_pid.b_2025_pn_tng_20260626210248.pdf,1260/Pid.B/2025/PN.Tng,Pengadilan Negeri Tangerang,Pidana Umum - Pencurian,,data/raw/pdf/case_009.pdf,data/raw/text/case_009.txt,berhasil,17,5017
+case_010,putusan_1276_pid.b_2025_pn_tng_20260626205427.pdf,1276/Pid.B/2025/PN.Tng,Pengadilan Negeri Tangerang,Pidana Umum - Pencurian,"18
+September 2025",data/raw/pdf/case_010.pdf,data/raw/text/case_010.txt,berhasil,31,9934
+case_011,putusan_1312_pid.b_2025_pn_tng_20260626210713.pdf,1312/Pid.B/2025/PN.Tng,Pengadilan Negeri Tangerang,Pidana Umum - Pencurian,"07
+Oktober 2025",data/raw/pdf/case_011.pdf,data/raw/text/case_011.txt,berhasil,19,5425
+case_012,putusan_1315_pid.b_2025_pn_tng_20260626210731.pdf,1315/Pid.B/2025/PN.Tng,Pengadilan Negeri Tangerang,Pidana Umum - Pencurian,,data/raw/pdf/case_012.pdf,data/raw/text/case_012.txt,berhasil,18,5419
+case_013,putusan_1337_pid.b_2025_pn_tng_20260626205035.pdf,1337/Pid.B/2025/PN.Tng,Pengadilan Negeri Tangerang,Pidana Umum - Pencurian,,data/raw/pdf/case_013.pdf,data/raw/text/case_013.txt,berhasil,21,5850
+case_014,putusan_1527_pid.b_2025_pn_tng_20260626211157.pdf,1527/Pid.B/2025/PN.Tng,Pengadilan Negeri Tangerang,Pidana Umum - Pencurian,,data/raw/pdf/case_014.pdf,data/raw/text/case_014.txt,berhasil,23,6883
+case_015,putusan_1562_pid.b_2025_pn_tng_20260626210957.pdf,1562/Pid.B/2025/PN.Tng,Pengadilan Negeri Tangerang,Pidana Umum - Pencurian,,data/raw/pdf/case_015.pdf,data/raw/text/case_015.txt,berhasil,18,5232
+case_016,putusan_1571_pid.b_2025_pn_tng_20260626204916.pdf,1571/Pid.B/2025/PN.Tng,Pengadilan Negeri Tangerang,Pidana Umum - Pencurian,,data/raw/pdf/case_016.pdf,data/raw/text/case_016.txt,berhasil,19,5564
+case_017,putusan_1584_pid.b_2025_pn_tng_20260626210644.pdf,1584/Pid.B/2025/PN.Tng,Pengadilan Negeri Tangerang,Pidana Umum - Pencurian,,data/raw/pdf/case_017.pdf,data/raw/text/case_017.txt,berhasil,20,6103
+case_018,putusan_1606_pid.b_2025_pn_tng_20260626204551.pdf,1606/Pid.B/2025/PN.Tng,Pengadilan Negeri Tangerang,Pidana Umum - Pencurian,,data/raw/pdf/case_018.pdf,data/raw/text/case_018.txt,berhasil,18,5461
+case_019,putusan_1641_pid.b_2025_pn_tng_20260626205520.pdf,1641/Pid.B/2025/PN.Tng,Pengadilan Negeri Tangerang,Pidana Umum - Pencurian,,data/raw/pdf/case_019.pdf,data/raw/text/case_019.txt,berhasil,15,4893
+case_020,putusan_1674_pid.b_2017_pn_tng_20260626210749.pdf,1674/Pid.B/2017/PN.Tng,Pengadilan Negeri Tangerang,Pidana Umum - Pencurian,,data/raw/pdf/case_020.pdf,data/raw/text/case_020.txt,berhasil,10,4307
+case_021,putusan_1715_pid.b_2024_pn_tng_20260626210235.pdf,1715/Pid.B/2024/PN.Tng,Pengadilan Negeri Tangerang,Pidana Umum - Pencurian,,data/raw/pdf/case_021.pdf,data/raw/text/case_021.txt,berhasil,22,6545
+case_022,putusan_1739_pid.b_2025_pn_tng_20260626205441.pdf,1739/Pid.B/2025/PN.Tng,Pengadilan Negeri Tangerang,Pidana Umum - Pencurian,,data/raw/pdf/case_022.pdf,data/raw/text/case_022.txt,berhasil,15,4414
+case_023,putusan_1763_pid.b_2024_pn_tng_20260626210033.pdf,1763/Pid.B/2024/PN.Tng,Pengadilan Negeri Tangerang,Pidana Umum - Pencurian,,data/raw/pdf/case_023.pdf,data/raw/text/case_023.txt,berhasil,18,5603
+case_024,putusan_1788_pid.b_2017_pn_tng_20260626211021.pdf,1788/Pid.B/2017/PN.Tng,Pengadilan Negeri Tangerang,Pidana Umum - Pencurian,"30
+Oktober 2017",data/raw/pdf/case_024.pdf,data/raw/text/case_024.txt,berhasil,34,2957
+case_025,putusan_1800_pid.b_2024_pn_tng_20260626205941.pdf,1800/Pid.B/2024/PN.Tng,Pengadilan Negeri Tangerang,Pidana Umum - Pencurian,,data/raw/pdf/case_025.pdf,data/raw/text/case_025.txt,berhasil,22,6640
+case_026,putusan_1818_pid.b_2024_pn_tng_20260626205707.pdf,1818/Pid.B/2024/PN.Tng,Pengadilan Negeri Tangerang,Pidana Umum - Pencurian,"14
+Januari 2025",data/raw/pdf/case_026.pdf,data/raw/text/case_026.txt,berhasil,32,9991
+case_027,putusan_1821_pid.b_2024_pn_tng_20260626210125.pdf,1821/Pid.B/2024/PN.Tng,Pengadilan Negeri Tangerang,Pidana Umum - Pencurian,,data/raw/pdf/case_027.pdf,data/raw/text/case_027.txt,berhasil,10,2628
+case_028,putusan_1841_pid.b_2024_pn_tng_20260626205638.pdf,1841/Pid.B/2024/PN.Tng,Pengadilan Negeri Tangerang,Pidana Umum - Pencurian,,data/raw/pdf/case_028.pdf,data/raw/text/case_028.txt,berhasil,25,8342
+case_029,putusan_1842_pid.b_2024_pn_tng_20260626205453.pdf,1842/Pid.B/2024/PN.Tng,Pengadilan Negeri Tangerang,Pidana Umum - Pencurian,,data/raw/pdf/case_029.pdf,data/raw/text/case_029.txt,berhasil,26,8380
+case_030,putusan_1869_pid.b_2024_pn_tng_20260626205200.pdf,1869/Pid.B/2024/PN.Tng,Pengadilan Negeri Tangerang,Pidana Umum - Pencurian,,data/raw/pdf/case_030.pdf,data/raw/text/case_030.txt,berhasil,18,5276
+case_031,putusan_1874_pid.b_2025_pn_tng_20260626210529.pdf,1874/Pid.B/2025/PN.Tng,Pengadilan Negeri Tangerang,Pidana Umum - Pencurian,,data/raw/pdf/case_031.pdf,data/raw/text/case_031.txt,berhasil,22,7573
+case_032,putusan_1892_pid.b_2024_pn_tng_20260626205418.pdf,1892/Pid.B/2024/PN.Tng,Pengadilan Negeri Tangerang,Pidana Umum - Pencurian,,data/raw/pdf/case_032.pdf,data/raw/text/case_032.txt,berhasil,18,5399
+case_033,putusan_1912_pid.b_2024_pn_tng_20260626204809.pdf,1912/Pid.B/2024/PN.Tng,Pengadilan Negeri Tangerang,Pidana Umum - Pencurian,,data/raw/pdf/case_033.pdf,data/raw/text/case_033.txt,berhasil,23,6864
+case_034,putusan_1936_pid.b_2024_pn_tng_20260626210023.pdf,1936/Pid.B/2024/PN.Tng,Pengadilan Negeri Tangerang,Pidana Umum - Pencurian,,data/raw/pdf/case_034.pdf,data/raw/text/case_034.txt,berhasil,19,5867
+case_035,putusan_1942_pid.b_2025_pn_tng_20260626210510.pdf,1942/Pid.B/2025/PN.Tng,Pengadilan Negeri Tangerang,Pidana Umum - Pencurian,,data/raw/pdf/case_035.pdf,data/raw/text/case_035.txt,berhasil,18,5582
+case_036,putusan_1960_pid.b_2025_pn_tng_20260626210610.pdf,1960/Pid.B/2025/PN.Tng,Pengadilan Negeri Tangerang,Pidana Umum - Pencurian,,data/raw/pdf/case_036.pdf,data/raw/text/case_036.txt,berhasil,23,7244
+case_037,putusan_1982_pid.b_2024_pn_tng_20260626205956.pdf,1982/Pid.B/2024/PN.Tng,Pengadilan Negeri Tangerang,Pidana Umum - Pencurian,,data/raw/pdf/case_037.pdf,data/raw/text/case_037.txt,berhasil,23,7425
+case_038,putusan_465_pid.b_2026_pn_tng_20260626210933.pdf,465/Pid.B/2026/PN.Tng,Pengadilan Negeri Tangerang,Pidana Umum - Pencurian,,data/raw/pdf/case_038.pdf,data/raw/text/case_038.txt,berhasil,16,4522
+case_039,putusan_471_pid.b_2026_pn_tng_20260626210856.pdf,471/Pid.B/2026/PN.Tng,Pengadilan Negeri Tangerang,Pidana Umum - Pencurian,"12 Mei
+2026",data/raw/pdf/case_039.pdf,data/raw/text/case_039.txt,berhasil,20,6342
+case_040,putusan_517_pid.b_2026_pn_tng_20260626210800.pdf,617/Pid.B/2026/PN.Tng,Pengadilan Negeri Tangerang,Pidana Umum - Pencurian,,data/raw/pdf/case_040.pdf,data/raw/text/case_040.txt,berhasil,16,4874

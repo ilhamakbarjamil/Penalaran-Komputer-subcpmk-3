@@ -1,1 +1,2 @@
-query_id,ground_truth_case_id,top1_case_id,top_k_case_ids,top_k_scores,top1_correct,hit_at_k,precision_at_k,recall_at_k,f1_at_k
+query_id,ground_truth_case_id,ground_truth_solution_label,predicted_solution_label,best_case_id,best_case_label,best_similarity_score,top_k_case_ids,top_k_labels,top_k_scores
+eval_008,case_037,Pidana Penjara 7-12 Bulan,Pidana Penjara > 12 Bulan,case_027,Pidana Tidak Teridentifikasi,0.267593,"case_027, case_025, case_032, case_003, case_026","Pidana Tidak Teridentifikasi, Pidana Penjara > 12 Bulan, Pidana Penjara > 12 Bulan, Pidana Penjara > 12 Bulan, Pidana Penjara > 12 Bulan","0.267593, 0.212231, 0.175931, 0.166786, 0.166069"
