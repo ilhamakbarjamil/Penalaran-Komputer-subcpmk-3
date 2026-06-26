@@ -1,0 +1,10 @@
+aspek,status,catatan
+Dataset kasus tersedia,OK,40 kasus
+Case base train tersedia,OK,32 kasus
+Query test tersedia,OK,8 kasus
+Train dan test konsisten,OK,32 + 8 = 40
+Label solusi lengkap,OK,0 kosong
+Problem text lengkap,OK,0 kosong
+Metrik retrieval tersedia,OK,4 metrik
+Metrik prediksi tersedia,OK,7 metrik
+Gambar visualisasi tersedia,OK,"label_distribution_bar.png, train_test_split_bar.png, word_count_distribution.png, missing_fields_bar.png, combined_metrics_bar.png, confusion_matrix_heatmap.png"
