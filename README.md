@@ -1,6 +1,6 @@
 # Case-Based Reasoning Putusan Pidana Umum Pencurian PN Tangerang
 
-Repository ini berisi implementasi **Case-Based Reasoning (CBR)** untuk pencarian kemiripan kasus putusan pengadilan. Data yang digunakan adalah 40 file PDF putusan pidana umum pencurian dari Direktori Putusan Mahkamah Agung.
+Repository ini berisi implementasi **Case-Based Reasoning (CBR)** untuk pencarian kemiripan kasus putusan pengadilan. Data yang digunakan adalah 40 file PDF putusan pidana umum pencurian dari Direktori Putusan Mahkamah Agung..
 
 ## Identitas Dataset
 
